@@ -40,26 +40,25 @@ Checkout the [Lab Website](https://neuroergolab.org) for more information.
 
 <div class="row">
   <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/tiago.jpeg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/tiagogunter/">Tiago Guntur</a></h3>
+  </div>
+  <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/aakash.jpg">
     <h3 style="text-align: center"><a href="https://nimrobotics.com/">Aakash Yadav</a></h3>
   </div>
   <div class="column">
-    <img style="border-radius: 50%; width: 50%; float: center" src="assets/patralika.jpg">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/jeevan.jpg">
     <h3 style="text-align: center"><a>Jeevan Jayasuriya</a></h3>
   </div>
   <div class="column">
-    <img style="border-radius: 50%; width: 50%; float: center" src="assets/Jackie.JPG">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/jacqueline-aleman-66ab20227">Tiash Rana Mukherjee</a></h3>
-  </div>
-  <div class="column">
-    <img style="border-radius: 50%; width: 50%; float: center" src="assets/aiden.jpeg">
-    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/aiden-nguyen-180b43205/">Tiago Guntur</a></h3>
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/tiash.jpeg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/tiashranamukherjee/">Tiash Rana Mukherjee</a></h3>
   </div>
   <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/mehta.jpg">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/ranjanamehta/">Ranjana K. Mehta</a></h3>
   </div>
-
 </div>
 
 
