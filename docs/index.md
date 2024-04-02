@@ -52,6 +52,10 @@ Checkout the [Lab Website](https://neuroergolab.org) for more information.
     <h3 style="text-align: center"><a>Jeevan Jayasuriya</a></h3>
   </div>
   <div class="column">
+    <img style="border-radius: 50%; width: 50%; float: center" src="assets/eshan.jpeg">
+    <h3 style="text-align: center"><a href="https://www.linkedin.com/in/eshan-manchanda/">Eshan Manchanda</a></h3>
+  </div>
+  <div class="column">
     <img style="border-radius: 50%; width: 50%; float: center" src="assets/tiash.jpeg">
     <h3 style="text-align: center"><a href="https://www.linkedin.com/in/tiashranamukherjee/">Tiash Rana Mukherjee</a></h3>
   </div>
